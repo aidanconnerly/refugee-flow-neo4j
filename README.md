@@ -26,7 +26,7 @@ The data encompass refugee migration patterns from 2010 - 2024.
 
 ## Results
 
-Here are a a few of the results for running various graph algorithms. For more analysis, see the notebook ```code/data_science_graph_algos.ipynb```
+Here are a few of the results for running various graph algorithms. For more analysis, see the notebook ```code/data_science_graph_algos.ipynb```
 
 1. **PageRank:** Identified influential origin and asylum countries using country neighborhoods.
 ![PageRank Origin](images/pagerank_origin.png)
